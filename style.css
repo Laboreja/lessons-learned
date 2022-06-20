@@ -17,3 +17,17 @@ body {
 font {
   font-size: 100px;
 }
+
+.lado-esquerdo {
+    font-size: 10px;
+    display: inline-block;
+    width:540px;
+    margin:50px;
+}
+
+.lado-direito {
+    font-size: 10px;
+    display: inline-block;
+    width:540px;
+    margin:50px;
+}
