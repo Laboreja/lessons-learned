@@ -17,10 +17,6 @@ body {
   border: 10px;
 }
 
-font {
-  font-size: 100px;
-}
-
 .lado-esquerdo {
   float: left;
   width: 540px;
