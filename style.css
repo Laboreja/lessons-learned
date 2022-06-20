@@ -1,11 +1,19 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-size: 110%;
+  color: rebeccapurple;
+  line-height: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #cabecalho {
   position: fixed;
   top: 0;
-  margin:100px;
-  padding:10px;
+  margin: 100px;
+  padding: 10px;
   border: 10px;
+}
+
+font {
+  font-size: 100px;
 }
